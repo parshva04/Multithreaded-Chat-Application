@@ -51,7 +51,7 @@ The primary objective of this project is to enable multiple clients to connect t
 
 #### **Execution in IntelliJ IDEA (Client Output - Client )**  
 
-
+<img width="1313" height="335" alt="Image" src="https://github.com/user-attachments/assets/b6d1382e-931c-4b54-8445-a3809516e41e" />
 
 - The **client successfully connected** to the chat server and participated in real-time communication.  
 
