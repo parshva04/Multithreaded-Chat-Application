@@ -35,7 +35,7 @@ The primary objective of this project is to enable multiple clients to connect t
 
 #### **Execution in IntelliJ IDEA (Server Output)**  
 
-
+<img width="1317" height="338" alt="Image" src="https://github.com/user-attachments/assets/82c78750-81c2-4605-ba8a-d66ed5df6aac" />
 
 - The **server successfully started**, accepted multiple client connections, and displayed received messages.  
 
